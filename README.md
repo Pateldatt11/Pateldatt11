@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have built all my projects independently using the programming languages I am familiar with.<br>Yes, I am open to collaboration and willing to work with others.<br>I am currently pursuing a B.Tech degree, and my 6th semester is ongoing.<br>I am actively looking for guidance and support to improve my skills and grow professionally.<br>As part of my B.Tech course, I have learned and worked with C, C++, HTML, CSS, JavaScript, React, Django, <br>Angular, and Android development using Kotlin in Android Studio.
+I have built all my projects independently using the programming languages I am familiar with.<br>Yes, I am open to collaboration and willing to work with others.<br>I am currently pursuing a B.Tech degree, and my 6th semester is ongoing.<br>I am actively looking for guidance and support to improve my skills and grow professionally.<br>As part of my B.Tech course, I have learned and worked with C, C++, HTML, CSS, JavaScript, React, Django, <br>Angular, and Android development using Kotlin in Android Studio................
 
 
 ## 🌐 Socials:
