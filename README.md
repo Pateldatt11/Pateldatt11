@@ -1,9 +1,8 @@
 # 💫 About Me
 
 I build my projects independently using the technologies I am skilled in.  
-I am open to collaboration and working in teams.  
 Currently pursuing B.Tech (6th Semester).  
-Actively seeking guidance, internships, and opportunities to improve technically and professionally.
+Actively improving my development skills and looking for real-world experience.
 
 ---
 
@@ -52,7 +51,7 @@ Actively seeking guidance, internships, and opportunities to improve technically
 
 ![](https://github-readme-stats.vercel.app/api?username=Pateldatt11&show_icons=true&theme=tokyonight)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Pateldatt11&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Pateldatt11&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pateldatt11&layout=compact&theme=tokyonight)
 
@@ -60,4 +59,4 @@ Actively seeking guidance, internships, and opportunities to improve technically
 
 ## 👀 Profile Views
 
-![](https://visitcount.itsvg.in/api?id=Pateldatt11&icon=5&color=6)
+![](https://komarev.com/ghpvc/?username=Pateldatt11&label=Profile%20Views&color=0e75b6&style=for-the-badge)
