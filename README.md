@@ -61,8 +61,4 @@ I continuously work on improving my problem-solving ability, development practic
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pateldatt11&layout=compact&theme=tokyonight)
 
----
 
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=Pateldatt11&label=Profile%20Views&color=0e75b6&style=for-the-badge)
