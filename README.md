@@ -1,12 +1,8 @@
-<!-- ======================= -->
-<!--        HEADER           -->
-<!-- ======================= -->
-
 <h1 align="center">Hi 👋, I'm Datt Patel</h1>
 <h3 align="center">🚀 Full Stack Developer | Android Developer | Problem Solver</h3>
 
 <p align="center">
-  Passionate about building scalable web & mobile applications with clean architecture and performance-focused design.
+  Passionate about building scalable Web & Mobile Applications with clean architecture and performance-focused design.
 </p>
 
 <p align="center">
@@ -34,7 +30,7 @@ I build real-world scalable web and mobile applications with strong focus on cle
 I enjoy solving complex problems using C++, JavaScript, and modern frameworks like React and Django.  
 I continuously improve my Data Structures, System Design, and development practices.
 
-🎯 Currently open to Internship and Full-Time Opportunities.
+🎯 Open to Internship and Full-Time Opportunities.
 
 ---
 
@@ -84,44 +80,35 @@ I continuously improve my Data Structures, System Design, and development practi
 ## 🚀 Featured Projects
 
 ### 🔹 E-Commerce Platform
-- Tech Stack: React, Node.js, MongoDB  
+- React, Node.js, MongoDB  
 - Secure authentication & payment integration  
-- Admin dashboard for product management  
-- Designed to handle large product datasets efficiently  
+- Admin dashboard & scalable architecture  
 
 ### 🔹 Task Management App
-- Tech Stack: Django, React  
+- Django + React  
 - Real-time CRUD operations  
-- User authentication & clean UI  
+- Authentication system  
 
 ### 🔹 Android Expense Tracker
-- Built using Kotlin  
+- Kotlin  
 - Local database integration  
-- Modern UI with efficient data tracking  
+- Clean & modern UI  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pateldatt11&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pateldatt11&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pateldatt11&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pateldatt11&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=Pateldatt11&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pateldatt11&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
 
 ## 📄 Resume
 
-📌 Add your resume link below:
-
 [Download Resume](YOUR_GOOGLE_DRIVE_LINK_HERE)
-
----
-
-## 🔥 Quote I Believe In
-
-> “First, solve the problem. Then, write the code.”
 
 ---
 
