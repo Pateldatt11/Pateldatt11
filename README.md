@@ -1,49 +1,35 @@
 <h1 align="center">Hi 👋, I'm Datt Patel</h1>
-<h3 align="center">🚀 Full Stack Developer | Android Developer | Problem Solver</h3>
+<h3 align="center">Full Stack Developer | Android Developer | Problem Solver</h3>
 
 <p align="center">
-  Passionate about building scalable Web & Mobile Applications with clean architecture and performance-focused design.
-</p>
-
-<p align="center">
-  <a href="mailto:pateldatt1111@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/d_a_t_t_p_a_t_e_l_1_8">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://x.com/PatelDatt18">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@pateldatt18">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+  <b>Building scalable Web & Mobile Applications with clean architecture and performance-focused design.</b>
 </p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-I am a passionate Full Stack Developer currently pursuing B.Tech (6th Semester).  
-I build real-world scalable web and mobile applications with strong focus on clean code, performance, and user experience.
+I’m a B.Tech (6th Semester) student passionate about developing real-world applications.
 
-🎯 Open to Internship and Full-Time Opportunities.
+- 💻 Strong foundation in Data Structures & Problem Solving  
+- 🌐 Full Stack Developer (React, Django, Node.js)  
+- 📱 Android Developer (Kotlin)  
+- ⚡ Focused on Clean Code & System Design  
+- 🎯 Open to Internship & Full-Time Opportunities  
 
 ---
 
 ## 🚀 Tech Stack
 
-### 💻 Languages
-C • C++ • Python • JavaScript  
+**Languages:** C • C++ • Python • JavaScript  
 
-### 🌐 Frontend
-HTML • CSS • React • Angular • Vite • Bootstrap  
+**Frontend:** React • Angular • HTML • CSS • Vite • Bootstrap  
 
-### 🔧 Backend
-Django • Node.js • Firebase  
+**Backend:** Django • Node.js • Firebase  
 
-### 📱 App Development
-Kotlin • React Native  
+**Mobile:** Kotlin • React Native  
+
+**Tools:** Git • GitHub • Figma • WordPress  
 
 ---
 
@@ -51,12 +37,10 @@ Kotlin • React Native
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pateldatt11&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-<img height="160em" src="https://streak-stats.demolab.com?user=Pateldatt11&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pateldatt11&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=Pateldatt11&theme=tokyonight"/>
 
-<br/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pateldatt11&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pateldatt11&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
 </div>
 
@@ -64,23 +48,26 @@ Kotlin • React Native
 
 ## 🚀 Featured Projects
 
-### 🔹 E-Commerce Platform
+### 🔹 E-Commerce Platform  
 React • Node.js • MongoDB  
-Secure authentication & scalable architecture  
+Secure authentication, payment integration & scalable product management  
 
-### 🔹 Task Management App
+### 🔹 Task Management System  
 Django • React  
-Real-time CRUD operations  
+Real-time CRUD operations with authentication  
 
-### 🔹 Android Expense Tracker
+### 🔹 Android Expense Tracker  
 Kotlin  
-Local database integration  
+Efficient expense tracking with local database  
 
 ---
 
-## 📄 Resume
+## 📫 Connect With Me
 
-[Download Resume](YOUR_GOOGLE_DRIVE_LINK_HERE)
+- 📧 Email: pateldatt1111@gmail.com  
+- 📷 Instagram: https://www.instagram.com/d_a_t_t_p_a_t_e_l_1_8  
+- 🐦 X: https://x.com/PatelDatt18  
+- ▶️ YouTube: https://youtube.com/@pateldatt18  
 
 ---
 
