@@ -6,6 +6,10 @@
 <h3 align="center">🚀 Full Stack Developer | Android Developer | Problem Solver</h3>
 
 <p align="center">
+  Passionate about building scalable web & mobile applications with clean architecture and performance-focused design.
+</p>
+
+<p align="center">
   <a href="mailto:pateldatt1111@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -24,12 +28,13 @@
 
 ## 🧠 About Me
 
-- 🎓 B.Tech Student (6th Semester)  
-- 💡 Strong in Data Structures & Problem Solving  
-- 🌐 Full Stack Web Developer (MERN + Django)  
-- 📱 Android Developer using Kotlin  
-- ⚡ Passionate about Clean Code & System Design  
-- 🎯 Actively looking for Internship / Job Opportunities  
+I am a passionate Full Stack Developer currently pursuing B.Tech (6th Semester).  
+I build real-world scalable web and mobile applications with strong focus on clean code, performance, and user experience.
+
+I enjoy solving complex problems using C++, JavaScript, and modern frameworks like React and Django.  
+I continuously improve my Data Structures, System Design, and development practices.
+
+🎯 Currently open to Internship and Full-Time Opportunities.
 
 ---
 
@@ -79,20 +84,20 @@
 ## 🚀 Featured Projects
 
 ### 🔹 E-Commerce Platform
-- Tech Stack: React, Node.js, MongoDB
-- Secure authentication & payment integration
-- Admin dashboard for product management
-- Handles 500+ products efficiently
+- Tech Stack: React, Node.js, MongoDB  
+- Secure authentication & payment integration  
+- Admin dashboard for product management  
+- Designed to handle large product datasets efficiently  
 
 ### 🔹 Task Management App
-- Tech Stack: Django, React
-- Real-time CRUD operations
-- User authentication system
+- Tech Stack: Django, React  
+- Real-time CRUD operations  
+- User authentication & clean UI  
 
 ### 🔹 Android Expense Tracker
-- Built using Kotlin
-- Local database integration
-- Clean UI with modern design
+- Built using Kotlin  
+- Local database integration  
+- Modern UI with efficient data tracking  
 
 ---
 
