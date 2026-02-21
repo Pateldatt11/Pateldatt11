@@ -1,64 +1,123 @@
-# 👋 Hi, I'm Datt Patel
+<!-- ======================= -->
+<!--        HEADER           -->
+<!-- ======================= -->
 
-## 💫 About Me
+<h1 align="center">Hi 👋, I'm Datt Patel</h1>
+<h3 align="center">🚀 Full Stack Developer | Android Developer | Problem Solver</h3>
 
-I build projects independently with a strong focus on practical and real-world problem solving.
+<p align="center">
+  <a href="mailto:pateldatt1111@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/d_a_t_t_p_a_t_e_l_1_8">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/PatelDatt18">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@pateldatt18">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
-Currently pursuing B.Tech (6th Semester), with hands-on experience in:
+---
 
-C, C++, HTML, CSS, JavaScript, React, Django, Angular, and Android development using Kotlin.
+## 🧠 About Me
 
-I continuously work on improving my problem-solving ability, development practices, and system design understanding.
+- 🎓 B.Tech Student (6th Semester)  
+- 💡 Strong in Data Structures & Problem Solving  
+- 🌐 Full Stack Web Developer (MERN + Django)  
+- 📱 Android Developer using Kotlin  
+- ⚡ Passionate about Clean Code & System Design  
+- 🎯 Actively looking for Internship / Job Opportunities  
 
 ---
 
 ## 🚀 Tech Stack
 
 ### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</p>
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+### 🔧 Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NodeJS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase"/>
+</p>
 
 ### 📱 App Development
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![React Native](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
 
-### 🛠 Tools & Platforms
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### 🎨 Tools
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Featured Projects
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d_a_t_t_p_a_t_e_l_1_8)
+### 🔹 E-Commerce Platform
+- Tech Stack: React, Node.js, MongoDB
+- Secure authentication & payment integration
+- Admin dashboard for product management
+- Handles 500+ products efficiently
 
-[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PatelDatt18)
+### 🔹 Task Management App
+- Tech Stack: Django, React
+- Real-time CRUD operations
+- User authentication system
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@pateldatt18)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pateldatt1111@gmail.com)
+### 🔹 Android Expense Tracker
+- Built using Kotlin
+- Local database integration
+- Clean UI with modern design
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Pateldatt11&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pateldatt11&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pateldatt11&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pateldatt11&layout=compact&theme=tokyonight" />
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pateldatt11&theme=tokyonight)
+---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pateldatt11&layout=compact&theme=tokyonight)
+## 📄 Resume
 
+📌 Add your resume link below:
 
+[Download Resume](YOUR_GOOGLE_DRIVE_LINK_HERE)
+
+---
+
+## 🔥 Quote I Believe In
+
+> “First, solve the problem. Then, write the code.”
+
+---
+
+<h3 align="center">⭐ If you like my work, consider giving a star to my repositories!</h3>
