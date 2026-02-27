@@ -30,7 +30,48 @@ I continuously work on improving my problem-solving ability, development practic
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ---
 ## 🌐 Connect With Me
-[![Resume](https://img.shields.io/badge/📄_Download_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/YOUR_RESUME_FILE_ID/view?usp=sharing) <!-- ← YAHAN APNI RESUME LINK PASTE KAR -->
+[![Resume](<p style="margin-top:0pt; margin-right:108pt; margin-bottom:0pt; line-height:120%; font-size:26pt;"><strong><span style="font-family:Verdana; text-transform:uppercase; letter-spacing:2.5pt; color:#ab2235;">Patel datt</span></strong></p>
+<p style="margin-top:0pt; margin-right:108pt; margin-bottom:0pt; line-height:120%; font-size:18pt;"><strong><span style="font-family:Verdana; text-transform:uppercase; letter-spacing:2.5pt; color:#ab2235;">Full Stack Python Developer</span></strong></p>
+<p style="margin-top:0pt; margin-right:108pt; margin-bottom:0pt;">149 Amizara Residency , Surat (394221)| +91 7069598725 | pateldatt1111@gmail.com</p>
+<p style="margin-top:4pt; margin-right:108pt; margin-bottom:0pt;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAGCAYAAACFIR03AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAA2SURBVDhPY1itaPp/qGAGbACbwsGKoU5GBdgUDlYMdTIqwKZwsGKok1EBNoWDFUOdPJwAAwMAQr+uEArpzLoAAAAASUVORK5CYII=" width="48" height="6" alt="Decorative"></p>
+<h1 style="margin-top:0pt; margin-right:108pt; margin-bottom:2pt; line-height:normal; font-size:11pt;"><span style="font-family:Verdana; text-transform:uppercase; letter-spacing:3pt;">OBJECTIVE</span></h1>
+<p style="margin-top:0pt; margin-right:108pt; margin-bottom:0pt;">I&rsquo;m looking for an opportunity in a forward-thinking organization where I can apply my engineering knowledge, learn new skills, and grow both personally and professionally while contributing to the success of the team.</p>
+<p style="margin-top:4pt; margin-right:108pt; margin-bottom:0pt;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAGCAYAAACFIR03AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAA2SURBVDhPY1itaPp/qGAGbACbwsGKoU5GBdgUDlYMdTIqwKZwsGKok1EBNoWDFUOdPJwAAwMAQr+uEArpzLoAAAAASUVORK5CYII=" width="48" height="6" alt="Decorative"></p>
+<h1 style="margin-top:0pt; margin-right:108pt; margin-bottom:2pt; line-height:normal; font-size:11pt;"><span style="font-family:Verdana; text-transform:uppercase; letter-spacing:3pt;">EXPERIENCE</span></h1>
+<p style="margin-top:0pt; margin-right:108pt; margin-bottom:0pt;">Though I haven&apos;t had formal work experience yet, I&apos;ve been actively involved in practical training and academic projects throughout my Diploma and B.Tech studies.</p>
+<p style="margin-top:0pt; margin-right:108pt; margin-bottom:0pt;">I&apos;ve gained hands-on experience in labs and workshops, working with tools like AutoCAD and SolidWorks. These sessions have helped me understand real-world applications of engineering concepts.</p>
+<p style="margin-top:0pt; margin-right:108pt; margin-bottom:0pt;">Collaborating on group projects and technical presentations has strengthened my teamwork, communication, and problem-solving skills. I&apos;m a fast learner and genuinely excited to apply what I&rsquo;ve learned to real industry challenges.</p>
+<p style="margin-top:4pt; margin-right:108pt; margin-bottom:0pt;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAGCAYAAACFIR03AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAA2SURBVDhPY1itaPp/qGAGbACbwsGKoU5GBdgUDlYMdTIqwKZwsGKok1EBNoWDFUOdPJwAAwMAQr+uEArpzLoAAAAASUVORK5CYII=" width="48" height="6" alt="Decorative"></p>
+<h1 style="margin-top:0pt; margin-right:108pt; margin-bottom:2pt; line-height:normal; font-size:11pt;"><span style="font-family:Verdana; text-transform:uppercase; letter-spacing:3pt;">EDUCATION</span></h1>
+<ul type="disc" style="margin:0pt; padding-left:0pt;">
+    <li style="margin-right:108pt; margin-left:27.6pt; padding-left:8.4pt; font-family:serif;"><strong><span style="font-family:Calibri;">Diploma in Engineering &ndash; Completed</span></strong><br><strong><span style="font-family:Calibri;">Computer Engineering, M.S. Polytechnic, Surat, 2021 &ndash; 2025</span></strong></li>
+</ul>
+<p style="margin-top:0pt; margin-right:108pt; margin-bottom:0pt;">&nbsp;</p>
+<ul type="disc" style="margin:0pt; padding-left:0pt;">
+    <li style="margin-right:108pt; margin-left:27.6pt; padding-left:8.4pt; font-family:serif;"><strong><span style="font-family:Calibri;">Bachelor of Technology (B.Tech) &ndash; Ongoing</span></strong></li>
+</ul>
+<p style="margin-top:0pt; margin-right:108pt; margin-bottom:0pt; text-indent:36pt;"><strong>Computer Engineering, BAIT. Polytechnic, Surat, 2025 &ndash; Present</strong></p>
+<p style="margin-top:4pt; margin-right:108pt; margin-bottom:0pt;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAGCAYAAACFIR03AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAA2SURBVDhPY1itaPp/qGAGbACbwsGKoU5GBdgUDlYMdTIqwKZwsGKok1EBNoWDFUOdPJwAAwMAQr+uEArpzLoAAAAASUVORK5CYII=" width="48" height="6" alt="Decorative"></p>
+<h1 style="margin-top:0pt; margin-right:108pt; margin-bottom:2pt; line-height:normal; font-size:11pt;"><span style="font-family:Verdana; text-transform:uppercase; letter-spacing:3pt;">Language</span></h1>
+<ul type="disc" style="margin:0pt; padding-left:0pt;">
+    <li style="margin-top:4pt; margin-right:108pt; margin-left:27.6pt; padding-left:8.4pt; font-family:serif;"><span style="font-family:Calibri;">Gujarati &ndash; Native</span></li>
+    <li style="margin-right:108pt; margin-left:27.6pt; padding-left:8.4pt; font-family:serif;"><span style="font-family:Calibri;">Hindi &ndash; Fluent</span></li>
+    <li style="margin-right:108pt; margin-left:27.6pt; padding-left:8.4pt; font-family:serif;"><span style="font-family:Calibri;">English &ndash; Proficient</span></li>
+</ul>
+<p style="margin-top:4pt; margin-right:108pt; margin-bottom:0pt;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAGCAYAAACFIR03AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAA2SURBVDhPY1itaPp/qGAGbACbwsGKoU5GBdgUDlYMdTIqwKZwsGKok1EBNoWDFUOdPJwAAwMAQr+uEArpzLoAAAAASUVORK5CYII=" width="48" height="6" alt="Decorative"></p>
+<h1 style="margin-top:0pt; margin-right:108pt; margin-bottom:2pt; line-height:normal; font-size:11pt;"><span style="font-family:Verdana; text-transform:uppercase; letter-spacing:3pt;">SKIlls</span></h1>
+<ul type="disc" style="margin:0pt; padding-left:0pt;">
+    <li style="margin-right:108pt; margin-left:27.6pt; padding-left:8.4pt; font-family:serif;"><strong><span style="font-family:Calibri;">Languages: Python, JavaScript, C/C++</span></strong></li>
+    <li style="margin-right:108pt; margin-left:27.6pt; padding-left:8.4pt; font-family:serif;"><strong><span style="font-family:Calibri;">Frameworks/Tools: Django</span></strong></li>
+    <li style="margin-right:108pt; margin-left:27.6pt; padding-left:8.4pt; font-family:serif;"><strong><span style="font-family:Calibri;">Technologies: Full Stack Development, Artificial Intelligence (AI)</span></strong></li>
+    <li style="margin-right:108pt; margin-left:27.6pt; padding-left:8.4pt; font-family:serif;"><strong><span style="font-family:Calibri;">Soft Skills: Teamwork, Problem Solving, Quick Learning, Communication</span></strong></li>
+</ul>
+<p style="margin-top:0pt; margin-right:108pt; margin-bottom:0pt;"><strong>&nbsp;</strong></p>
+<p style="margin-top:0pt; margin-right:108pt; margin-bottom:0pt;">&nbsp;</p>
+<p style="margin-top:0pt; margin-right:108pt; margin-bottom:0pt;"><strong>&nbsp;</strong></p>
+<p style="margin-top:0pt; margin-right:108pt; margin-bottom:0pt;">&nbsp;</p>
+<p style="margin-top:0pt; margin-right:108pt; margin-bottom:0pt;"><span style="letter-spacing:-0.1pt;">&nbsp;</span></p>
+<p style="bottom: 10px; right: 10px; position: absolute;"><a href="https://wordtohtml.net/?utm_source=wth_free_doc_conversion_link&utm_medium=external" target="_blank" style="font-size:11px; color: #d0d0d0;">Converted to HTML with WordToHTML.net</a><span style="font-size:11px; color: #d0d0d0;">&nbsp;|&nbsp;</span><a href="https://documentconverter.pro/?utm_source=wth_free_doc_conversion_link&utm_medium=external" target="_blank" style="font-size:11px; color: #d0d0d0;">Document Converter for Windows</a></p>) <!-- ← YAHAN APNI RESUME LINK PASTE KAR -->
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d_a_t_t_p_a_t_e_l_1_8)
 [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PatelDatt18)
