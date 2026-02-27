@@ -1,15 +1,20 @@
-
 # 👋 Hi, I'm Datt Patel
+
+![Profile Views](https://komarev.com/ghpvc/?username=Pateldatt11&color=00ff88&style=flat-square&label=Profile+Views)
+
+**Independent Builder | B.Tech 6th Sem | Full-Stack & Android Developer**
+
+---
 
 ## 💫 About Me
 
-I build projects independently with a strong focus on practical and real-world problem solving.
+I build projects independently with a strong focus on **practical and real-world problem solving**.  
 
-Currently pursuing B.Tech (6th Semester), with hands-on experience in:
+Currently pursuing **B.Tech (6th Semester)**, with solid hands-on experience in:
 
-C, C++, HTML, CSS, JavaScript, React, Django, Angular, and Android development using Kotlin.
+**C • C++ • Python • JavaScript • React • Angular • Django • Kotlin (Android) • React Native**
 
-I continuously work on improving my problem-solving ability, development practices, and system design understanding.
+I’m always leveling up my problem-solving skills, clean coding practices, and system design knowledge.
 
 ---
 
@@ -45,23 +50,15 @@ I continuously work on improving my problem-solving ability, development practic
 ## 🌐 Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d_a_t_t_p_a_t_e_l_1_8)
-
-[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PatelDatt18)
-
+[![𝕏](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PatelDatt18)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@pateldatt18)
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pateldatt1111@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pateldatt11)
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Pateldatt11&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pateldatt11&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pateldatt11&layout=compact&theme=tokyonight)
-
-
-
-
+![](https://github-readme-stats.vercel.app/api?username=Pateldatt11&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Pateldatt11&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pateldatt11&layout=compact&theme=tokyonight&hide_border=true)
