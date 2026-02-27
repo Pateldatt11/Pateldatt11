@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Pateldatt11&color=00ff88&style=flat-square&label=Profile+Views)
 
-**Independent Builder | B.Tech 6th Sem | Full-Stack & Android Developer**
+**Independent Builder | B.Tech 6th Sem | Full-Stack & Android Developer | Problem Solver**
 
 ---
 
@@ -10,11 +10,19 @@
 
 I build projects independently with a strong focus on **practical and real-world problem solving**.  
 
-Currently pursuing **B.Tech (6th Semester)**, with solid hands-on experience in:
+Currently pursuing **B.Tech (6th Semester)**, I have hands-on experience in C, C++, Python, JavaScript, React, Angular, Django, Kotlin (Android) & React Native.  
 
-**C • C++ • Python • JavaScript • React • Angular • Django • Kotlin (Android) • React Native**
+I continuously grind to improve my problem-solving skills, clean code practices, system design & development speed.
 
-I’m always leveling up my problem-solving skills, clean coding practices, and system design knowledge.
+---
+
+## 🎓 Education
+
+**B.Tech** (6th Semester)  
+[Your College Name], [University Name]  
+2023 – 2027 (Expected)  
+
+*CGPA: [Your CGPA]*
 
 ---
 
@@ -47,13 +55,55 @@ I’m always leveling up my problem-solving skills, clean coding practices, and 
 
 ---
 
+## 📌 Featured Projects
+
+*(Apna real projects niche replace karje — 3 examples ready che!)*
+
+### 1. [Project Name 1]  
+**Description:** Short powerful one-liner about the project.  
+**Tech:** React • Django • Firebase  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square)](https://your-live-link)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Pateldatt11/repo-link)
+
+### 2. [Android App Name]  
+**Description:** Real-time / useful app jo maine banavi.  
+**Tech:** Kotlin • Firebase • MVVM  
+[![Play Store](https://img.shields.io/badge/Play%20Store-34A853?style=flat-square)](link)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](repo-link)
+
+### 3. [Project Name 3]  
+**Description:** ...  
+**Tech:** Angular • NodeJS • MongoDB  
+[![Live](https://img.shields.io/badge/Live-4285F4?style=flat-square)](link)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](repo-link)
+
+---
+
+## 🌱 Currently Learning & Interests
+
+- Advanced System Design & DSA  
+- Cloud Computing (AWS / Firebase)  
+- Open Source Contributions  
+- UI/UX with Figma  
+- Building scalable full-stack apps  
+
+---
+
 ## 🌐 Connect With Me
+
+[![Resume](https://img.shields.io/badge/📄_Download_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/YOUR_RESUME_LINK_HERE) <!-- ← YAHAN APNI RESUME LINK PASTE KAR -->
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d_a_t_t_p_a_t_e_l_1_8)
 [![𝕏](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PatelDatt18)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@pateldatt18)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pateldatt1111@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pateldatt11)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Pateldatt11&theme=tokyonight&no-frame=true&margin-w=15)
 
 ---
 
